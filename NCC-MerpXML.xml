@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subs>
+    <NCC>
+        <m>
+            <r>U</r><w>units</w>
+        </m>
+        <m>
+            <r>ug</r><w>micrograms</w>
+        </m>
+        <m>
+            <r>QD</r><w>daily</w>
+        </m>
+        <m>
+            <r>QOD</r><w>every other day</w>
+        </m>
+        <m>
+            <r>SC</r><w>subcutaneous</w>
+        </m>
+        <m>
+            <r>SQ</r><w>subcutaneous</w>
+        </m>
+        <m>
+            <r>TIW</r><w>three times a week</w>
+        </m>
+        <m>
+            <r>D/C</r><w>discharge/discontinue</w>
+        </m>
+        <m>
+            <r> HS</r><w>half-strength</w>
+        </m>
+        <m>
+            <r>cc</r><w>cubic centimeters</w>
+        </m>
+        <m>
+            <r>AU</r><w>both ears</w>
+        </m>
+        <m>
+            <r> AS</r><w>left ear</w>
+        </m>
+        <m>
+            <r> AD</r><w>right ear</w>
+        </m>
+        <m>
+            <r>OU</r><w>both eyes</w>
+        </m>
+        <m>
+            <r>IU</r><w>international unit</w>
+        </m>
+        <m>
+            <r>MS</r><w>morphine sulphate</w>
+        </m>
+        <m>
+            <r>MSO4</r><w>morphine sulphate</w>
+        </m>  
+    </NCC>
+    <TJC>
+    </TJC>
+</subs>
